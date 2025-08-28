@@ -1,0 +1,1 @@
+# SIH-AI_Driven_Crop_Disease_Prediction_and_Management_System
